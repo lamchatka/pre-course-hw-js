@@ -8,5 +8,5 @@ let passport2 = {
     surname: "Petrov",
 };
 
-console.log(passport);
-console.log(passport2);
+console.log(passport.name);
+console.log(passport2.name);
