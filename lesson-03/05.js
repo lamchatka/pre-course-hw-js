@@ -1,4 +1,4 @@
-const users3 = [
+const users2 = [
     {
         id: 1,
         user: 'John',
@@ -24,5 +24,5 @@ const newObj = {
     surName: 'Susanin',
     address: 'Unknown'
 }
-users3.push(newObj)
-console.log(users3);
+users2.push(newObj)
+console.log(users2);
